@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567259309 source:d:\martinezlmlm\8\sabado 31\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesmath.h"
+
+1567259309 d:\martinezlmlm\8\sabado 31\operacionesmath.h
+	"stdio.h"
+	"stdlib.h"
+
+1567259343 source:d:\martinezlmlm\8\sabado 31\operacionesmath.c
+	"operacionesmath.h"
+
